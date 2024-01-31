@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Lasagna",
+    "price": 50,
+    "picture": "https://www.thewholesomedish.com/wp-content/uploads/2018/07/Best-Lasagna-550.jpg",
+    "id": "5c401174d3bf4ffe05b5d42b"
+  },
+  {
+    "name": "Pizza",
+    "price": 100,
+    "picture": "https://www.tasteofhome.com/wp-content/uploads/2017/10/Chicken-Pizza_exps30800_FM143298B03_11_8bC_RMS-2.jpg",
+    "id": "5c401678d3bf4ffe05b5d42c"
+  },
+  {
+    "name": "Pasta",
+    "price": 30,
+    "picture": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2011/2/4/1/RX-FNM_030111-Lighten-Up-012_s4x3.jpg.rend.hgtvcom.616.462.suffix/1382539856907.jpeg",
+    "id": "5c401698d3bf4ffe05b5d42d"
+  },
+  {
+    "name": "French Fries",
+    "price": 10,
+    "picture": "https://shop.gerald.ph/content/images/thumbs/0003743_french-fries_340.jpeg",
+    "id": "5c404b677199790b33f2e3a6"
+  },
+  {
+    "name": "Khicdi",
+    "price": "$15",
+    "picture": "https://media.istockphoto.com/id/468913759/photo/magni-dalni-khichdi-a-vegetarian-rice-dish-gujarat.jpg?s=1024x1024&w=is&k=20&c=lqm3K-Y_joj5l_sCWb6ieD-vSj72KR1N_mFJs7azDcs="
+  },
+  {
+    "name": "Khicdi",
+    "price": "$15",
+    "picture": "https://media.istockphoto.com/id/468913759/photo/magni-dalni-khichdi-a-vegetarian-rice-dish-gujarat.jpg?s=1024x1024&w=is&k=20&c=lqm3K-Y_joj5l_sCWb6ieD-vSj72KR1N_mFJs7azDcs="
+  }
+]
